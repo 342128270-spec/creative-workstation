@@ -1,0 +1,6 @@
+安装包/
+__pycache__/
+*.pyc
+.DS_Store
+*.dmg
+*.dmg.to
